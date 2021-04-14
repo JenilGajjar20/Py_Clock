@@ -23,6 +23,6 @@ The beginning of time is started measuring from 1 January, 12:00 am, 1970 and th
 
 
 The strftime() function is used to convert date and time objects to their string representation. 
-It takes one or more input of formatted code and returns the string representation. 
-Syntax : strftime(format) 
+It takes one or more input of formatted code and returns the string representation. <br>
+Syntax : strftime(format) <br>
 Returns : It returns the string representation of the date or time object.
