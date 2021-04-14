@@ -19,7 +19,7 @@ For example, here --> label = Label(root, font=('ds-digital', 60), background = 
 ## time module
 Python has defined a module, “time” which allows us to handle various operations regarding time, its conversions and representations, 
 which find its use in various applications in life. 
-The beginning of time is started measuring from 1 January, 12:00 am, 1970 and this very time is termed as “<u>epoch</u>” in Python.
+The beginning of time is started measuring from 1 January, 12:00 am, 1970 and this very time is termed as “<ins>epoch</ins>” in Python.
 
 
 The <b>strftime()</b> function is used to convert date and time objects to their string representation. 
