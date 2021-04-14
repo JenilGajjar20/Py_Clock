@@ -5,7 +5,7 @@ A simple digital clock using Python's tKinter module.
 Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications. 
 Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
 
-The ### tkinter.ttk module provides access to the Tk themed widget set, introduced in Tk 8.5. 
+The <b>tkinter.ttk</b> module provides access to the Tk themed widget set, introduced in Tk 8.5. 
 If Python has not been compiled against Tk 8.5, this module can still be accessed if Tile has been installed.
 
 ## The real difference between the two: 
